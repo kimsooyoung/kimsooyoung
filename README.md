@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
 
+<img src="https://img.shields.io/github/languages/count/beygee/survive" />
+<img src="https://img.shields.io/github/languages/top/beygee/survive" />
+<img src="https://img.shields.io/github/languages/code-size/beygee/survive" />
+<img src="https://img.shields.io/github/repo-size/beygee/survive" />
+<img src="https://img.shields.io/github/issues/beygee/survive" />
+<img src="https://img.shields.io/github/issues-closed/beygee/survive" />
+<img src="https://img.shields.io/github/commit-activity/w/beygee/survive" />
+<img src="https://img.shields.io/github/last-commit/beygee/survive" />
+
 ### Kim Soo Young
 
 **kimsooyoung/kimsooyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
