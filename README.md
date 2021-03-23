@@ -1,13 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
 
-<img src="https://img.shields.io/github/languages/count/beygee/survive" />
-<img src="https://img.shields.io/github/languages/top/beygee/survive" />
-<img src="https://img.shields.io/github/languages/code-size/beygee/survive" />
-<img src="https://img.shields.io/github/repo-size/beygee/survive" />
-<img src="https://img.shields.io/github/issues/beygee/survive" />
-<img src="https://img.shields.io/github/issues-closed/beygee/survive" />
-<img src="https://img.shields.io/github/commit-activity/w/beygee/survive" />
-<img src="https://img.shields.io/github/last-commit/beygee/survive" />
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
+</p>
 
 ### Kim Soo Young
 
@@ -23,3 +20,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src="https://img.shields.io/github/languages/count/beygee/survive" />
+<img src="https://img.shields.io/github/languages/top/beygee/survive" />
+<img src="https://img.shields.io/github/languages/code-size/beygee/survive" />
+<img src="https://img.shields.io/github/repo-size/beygee/survive" />
+<img src="https://img.shields.io/github/issues/beygee/survive" />
+<img src="https://img.shields.io/github/issues-closed/beygee/survive" />
+<img src="https://img.shields.io/github/commit-activity/w/beygee/survive" />
+<img src="https://img.shields.io/github/last-commit/beygee/survive" />
