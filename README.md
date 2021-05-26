@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
