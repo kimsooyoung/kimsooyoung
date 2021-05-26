@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
 
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
-
+</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
