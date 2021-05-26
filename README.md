@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
 
 ---
 
