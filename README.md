@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooyoung&theme=monokai&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
 </br>
