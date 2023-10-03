@@ -7,9 +7,7 @@
 
 ### Kim Soo Young
 
-**kimsooyoung/kimsooyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+> Hi, I'm Sooyoung Kim from South Korea. And I'm robotics enthusiast
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,16 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<img src="https://img.shields.io/github/languages/count/beygee/survive" />
-<img src="https://img.shields.io/github/languages/top/beygee/survive" />
-<img src="https://img.shields.io/github/languages/code-size/beygee/survive" />
-<img src="https://img.shields.io/github/repo-size/beygee/survive" />
-<img src="https://img.shields.io/github/issues/beygee/survive" />
-<img src="https://img.shields.io/github/issues-closed/beygee/survive" />
-<img src="https://img.shields.io/github/commit-activity/w/beygee/survive" />
-<img src="https://img.shields.io/github/last-commit/beygee/survive" />
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimsooyoung&theme=monokai&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
