@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
 </p>
 
-### Kim Soo Young
+### [Kim Soo Young](https://kimsooyoung.github.io/)
 
 > Hi, I'm Sooyoung Kim from South Korea. And I'm robotics enthusiast
 
