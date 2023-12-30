@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Swimming%20Kim&fontSize=90)
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
-</p>
+![readme_img](https://github.com/kimsooyoung/ros2aria/assets/12381733/71e87d36-1c35-4e0f-9b47-0ec892cb9f14)
 
 ### [Kim Soo Young](https://kimsooyoung.github.io/)
 
