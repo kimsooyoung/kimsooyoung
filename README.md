@@ -2,7 +2,7 @@
 
 ### [Kim Soo Young](https://kimsooyoung.github.io/)
 
-> Hi, I'm Sooyoung Kim from South Korea. And I'm robotics enthusiast
+> Hi, I'm Sooyoung Kim. And I'm robotics enthusiast
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
